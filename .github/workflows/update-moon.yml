@@ -21,7 +21,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install pytz
+        run: pip install pytz skyfield
 
       - name: Run update script
         run: python update_moon_phase.py
