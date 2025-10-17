@@ -1,13 +1,10 @@
 import datetime
-import math
 import pytz
 import re
+from skyfield.api import load
+from skyfield import almanac
 
-# --- Astronomical Constants ---
-J2000 = 2451545.0           # Julian Day for Jan 1, 2000 12:00 UTC
-SYNODIC_MONTH = 29.530588861  # Average length of lunar cycle in days
-
-# --- Moon Phase Emoji Mapping ---
+# --- Moon Phase Emoji Mapping (same as yours) ---
 MOON_EMOJIS = [
     "🌑",  # New Moon
     "🌒",  # Waxing Crescent
@@ -19,51 +16,40 @@ MOON_EMOJIS = [
     "🌘",  # Waning Crescent
 ]
 
-def get_moon_age(dt_utc):
-    """Return the moon age in days for a given UTC datetime."""
-    if dt_utc.tzinfo is None or dt_utc.tzinfo.utcoffset(dt_utc) is None:
-        dt_utc = dt_utc.replace(tzinfo=pytz.utc)
-    else:
-        dt_utc = dt_utc.astimezone(pytz.utc)
+# --- Astronomical Data Loader ---
+# Load timescale and ephemeris (planetary position data from JPL)
+ts = load.timescale()
+eph = load('de421.bsp')  # This file will be auto-downloaded on first run
 
-    jd = dt_utc.toordinal() + 1721424.5 + \
-         (dt_utc.hour + dt_utc.minute / 60 + dt_utc.second / 3600) / 24
+def get_current_moon_emoji():
+    """
+    Calculate the current moon phase and return the corresponding emoji
+    and the phase angle (in degrees).
+    """
+    t = ts.now()
+    
+    # Calculate the moon's phase angle (0-360 degrees)
+    # 0 = New Moon, 90 = First Quarter, 180 = Full Moon, 270 = Last Quarter
+    phase_angle = almanac.moon_phase(eph, t).degrees
 
-    days_since_J2000 = jd - J2000
-    new_moons = days_since_J2000 / SYNODIC_MONTH
-    age = (new_moons - math.floor(new_moons)) * SYNODIC_MONTH
-    return age
-
-def get_moon_emoji(age):
-    """Map moon age in days to one of 8 emojis."""
-    quarter = SYNODIC_MONTH / 4
-    if age < 0.5 or age > SYNODIC_MONTH - 0.5:
-        return MOON_EMOJIS[0]
-    elif age < quarter:
-        return MOON_EMOJIS[1]
-    elif age < 2*quarter:
-        return MOON_EMOJIS[2] if age < quarter + 1.5 else MOON_EMOJIS[3]
-    elif age < 2*quarter + 0.5:
-        return MOON_EMOJIS[4]
-    elif age < 3*quarter:
-        return MOON_EMOJIS[5]
-    elif age < 4*quarter:
-        return MOON_EMOJIS[6] if age < 3*quarter + 1.5 else MOON_EMOJIS[7]
-    return MOON_EMOJIS[0]
+    # We have 8 emojis, so we divide the 360 degrees into 8 slices.
+    # Each slice is 360 / 8 = 45 degrees.
+    # We use round() to find the nearest emoji index.
+    # The final '% 8' handles the wrap-around from 360° back to 0°.
+    emoji_index = round(phase_angle / 45) % 8
+    
+    emoji = MOON_EMOJIS[emoji_index]
+    
+    return emoji, phase_angle
 
 # --- Update README ---
 def update_readme():
-    ist = pytz.timezone('Asia/Kolkata')
-    now_ist = datetime.datetime.now(ist)
-    now_utc = now_ist.astimezone(pytz.utc)
-
-    age = get_moon_age(now_utc)
-    emoji = get_moon_emoji(age)
+    emoji, phase = get_current_moon_emoji()
 
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
-    # Replace the first emoji (👋 or previous moon emoji) with the current moon emoji
+    # Replace the first emoji (👋 or previous moon emoji)
     new_content = re.sub(
         r"(👋|🌑|🌒|🌓|🌔|🌕|🌖|🌗|🌘)",
         emoji,
@@ -71,19 +57,18 @@ def update_readme():
         count=1
     )
 
-    # Add/update a hidden comment with the moon age for reference
-    age_comment = f"<!-- Moon age: {age:.1f} days -->"
-    if "<!-- Moon age:" in new_content:
-        new_content = re.sub(r"<!-- Moon age:.*?-->", age_comment, new_content)
+    # Add/update a hidden comment with the moon phase for reference
+    phase_comment = f""
+    if "", phase_comment, new_content)
     else:
-        new_content += f"\n{age_comment}\n"
+        new_content += f"\n{phase_comment}\n"
 
     if new_content != content:
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(new_content)
-        print(f"Updated README: {emoji} ({age:.1f} days)")
+        print(f"Updated README: {emoji} ({phase:.1f} degrees)")
     else:
-        print("No update needed; emoji already current.")
+        print(f"No update needed. Current: {emoji} ({phase:.1f} degrees)")
 
 if __name__ == "__main__":
     update_readme()
