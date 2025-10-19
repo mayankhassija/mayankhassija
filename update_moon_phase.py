@@ -19,7 +19,8 @@ MOON_EMOJIS = [
 # --- Astronomical Data Loader ---
 # Load timescale and ephemeris (planetary position data from JPL)
 ts = load.timescale()
-eph = load('de421.bsp')  # This file will be auto-downloaded on first run
+# Using a common ephemeris file. This will be auto-downloaded on first run.
+eph = load('de421.bsp') 
 
 def get_current_moon_emoji():
     """
@@ -46,10 +47,15 @@ def get_current_moon_emoji():
 def update_readme():
     emoji, phase = get_current_moon_emoji()
 
-    with open("README.md", "r", encoding="utf-8") as f:
-        content = f.read()
+    try:
+        with open("README.md", "r", encoding="utf-8") as f:
+            content = f.read()
+    except FileNotFoundError:
+        print("Error: README.md not found.")
+        return
 
-    # Replace the first emoji (👋 or previous moon emoji)
+    # 1. Replace the first emoji (👋 or previous moon emoji)
+    # The pattern matches the first instance of a waving hand or any moon emoji
     new_content = re.sub(
         r"(👋|🌑|🌒|🌓|🌔|🌕|🌖|🌗|🌘)",
         emoji,
@@ -57,15 +63,34 @@ def update_readme():
         count=1
     )
 
-    # Add/update a hidden comment with the moon phase for reference
+    # 2. Add/update a hidden comment with the moon phase for reference
+    # This is the line that was causing the SyntaxError, now fixed.
     phase_comment = f""
-    if "", phase_comment, new_content)
-    else:
-        new_content += f"\n{phase_comment}\n"
+    
+    # Pattern to find a previously existing moon phase comment
+    # It looks for the HTML comment format phase_comment_pattern = r""
 
-    if new_content != content:
+    # Try to replace an existing comment.
+    # If a previous comment is found, re.sub replaces it with the new one.
+    content_after_comment_replace = re.sub(
+        phase_comment_pattern,
+        phase_comment,
+        new_content,
+        count=1
+    )
+    
+    # Check if a replacement occurred
+    if content_after_comment_replace != new_content:
+        # A replacement was made (an old comment existed)
+        final_content = content_after_comment_replace
+    else:
+        # No old comment was found (or it was the first run), so we append the new one.
+        final_content = new_content.strip() + f"\n{phase_comment}\n"
+
+
+    if final_content != content:
         with open("README.md", "w", encoding="utf-8") as f:
-            f.write(new_content)
+            f.write(final_content)
         print(f"Updated README: {emoji} ({phase:.1f} degrees)")
     else:
         print(f"No update needed. Current: {emoji} ({phase:.1f} degrees)")
