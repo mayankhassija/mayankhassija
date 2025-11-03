@@ -3,3 +3,10 @@
 
 <!-- Moon age: 0.3 days -->
 
+<br>
+<br>
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankhassija/) [![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/mayank_hassija)
