@@ -15,3 +15,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23333333.svg?logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/StartinSomethin)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-transparent.svg?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/StartinSomethin)
 [![Scratch](https://img.shields.io/badge/Scratch-%23FF6F00.svg?logo=scratch&logoColor=white)](https://scratch.mit.edu/users/StartinSomethin)
+[![Instagram](https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/mayankhassija)
+[![LeetCode](https://img.shields.io/badge/-?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/StartinSomethin)
+[![freeCodeCamp](https://img.shields.io/badge/-?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/StartinSomethin)
+[![Scratch](https://img.shields.io/badge/-?style=for-the-badge&logo=scratch&logoColor=FF6F00)](https://scratch.mit.edu/users/StartinSomethin)
