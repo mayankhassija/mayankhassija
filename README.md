@@ -1,15 +1,34 @@
 ## Hello, World! 🌘
 ![boy](https://github.com/user-attachments/assets/0ae9d690-6955-4b1c-96c3-c532e269db1d)
 
-<br>
-<br>
+<br><br>
 
 ---
 
 ### 🌐 Profiles
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankhassija/)
-[![X](https://img.shields.io/badge/-000000?logo=x&logoColor=white)](https://x.com/mayank_hassija)
-[![Instagram](https://img.shields.io/badge/-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mayankhassija/)
-[![LeetCode](https://img.shields.io/badge/-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/StartinSomethin/)
-[![freeCodeCamp](https://img.shields.io/badge/-0A0A23?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/StartinSomethin)
-[![Scratch](https://img.shields.io/badge/-FF6F00?logo=scratch&logoColor=white)](https://scratch.mit.edu/users/StartinSomethin/)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayankhassija">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a]
+&nbsp;&nbsp;
+  <a href="https://x.com/mayank_hassija">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mayankhassija/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/StartinSomethin/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+&nbsp;&nbsp;
+  <a href="https://www.freecodecamp.org/StartinSomethin">
+    <img src="https://img.shields.io/badge/freeCodeCamp-27251F?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/>
+  </a>
+&nbsp;&nbsp;
+  <a href="https://scratch.mit.edu/users/StartinSomethin/">
+    <img src="https://img.shields.io/badge/Scratch-FF8C1A?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch"/>
+  </a>
+</p>
