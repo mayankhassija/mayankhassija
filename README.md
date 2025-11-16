@@ -9,26 +9,26 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayankhassija">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a]
-&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/mayank_hassija">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
   </a>
-&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/mayankhassija/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/StartinSomethin/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.freecodecamp.org/StartinSomethin">
-    <img src="https://img.shields.io/badge/freeCodeCamp-27251F?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/>
+    <img src="https://img.shields.io/badge/freeCodeCamp-27251F?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/>
   </a>
-&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://scratch.mit.edu/users/StartinSomethin/">
-    <img src="https://img.shields.io/badge/Scratch-FF8C1A?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch"/>
+    <img src="https://img.shields.io/badge/Scratch-FF8C1A?style=flat-square&logo=scratch&logoColor=white" alt="Scratch"/>
   </a>
 </p>
