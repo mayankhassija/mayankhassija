@@ -9,22 +9,6 @@
 
 ### 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mayankhassija"
-   target="_blank"
-   style="
-     display:inline-block;
-     padding:7px 0;
-     text-align:center;
-     color:#fff;
-     width:200px;
-     height:32px;
-     border-radius:16px;
-     background:#0A66C2;
-     font-family:'SF Pro Text', Helvetica, sans-serif;
-     text-decoration:none;">
-  Follow on LinkedIn
-</a>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankhassija/)
 [![X](https://img.shields.io/badge/-black.svg?logo=x&logoColor=white)](https://x.com/mayank_hassija)
 [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/mayankhassija)
