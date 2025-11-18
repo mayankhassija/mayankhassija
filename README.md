@@ -3,7 +3,7 @@
 
 <!-- Moon age: 0.3 days -->
 
-<br><br>
+<br>
 
 ---
 
