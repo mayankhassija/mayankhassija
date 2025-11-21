@@ -1,5 +1,5 @@
 ## Hello, World! 🌑
-![boy](https://github.com/user-attachments/assets/0ae9d690-6955-4b1c-96c3-c532e269db1d)
+<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 <!-- Moon age: 0.3 days -->
 
