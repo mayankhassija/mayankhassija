@@ -1,0 +1,41 @@
+name: Update README with Random Quote
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:      
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # Step 3: Run the update script (this is your Python script)
+      - name: Run update script
+        run: python update_readme.py
+
+      # Step 4: Commit changes and push back to the repository using GITHUB_TOKEN
+      - name: Commit and push changes
+        run: |
+          # Configure git with your user details (email and name)
+          git config --global user.name "mayank-hassija"
+          git config --global user.email "mayankhassija@gmail.com"  # Your email
+
+          # Stage the changes (README file update)
+          git add README.md
+
+          # Commit the changes
+          git commit -m "Update README with random quote" || echo "No changes"
+
+          # Push the changes using GITHUB_TOKEN (automatically available in the workflow)
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
