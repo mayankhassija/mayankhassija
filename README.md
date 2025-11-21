@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whatever you reinforce or reward, you get more of.*
+> *every man dies. not every man truly lives.*
 
 </div>
 <!-- quote-end -->
