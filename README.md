@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *every man dies. not every man truly lives.*
+> *every day do something that will inch you closer to a better tomorrow.*
 
 </div>
 <!-- quote-end -->
