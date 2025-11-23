@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *every day do something that will inch you closer to a better tomorrow.*
+> *before the throne of the almighty, man will be judged not by his acts but by his intentions. for god alone reads our hearts.*
 
 </div>
 <!-- quote-end -->
