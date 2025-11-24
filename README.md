@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *before the throne of the almighty, man will be judged not by his acts but by his intentions. for god alone reads our hearts.*
+> *the high destiny of the individual is to serve rather than to rule.*
 
 </div>
 <!-- quote-end -->
