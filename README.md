@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the high destiny of the individual is to serve rather than to rule.*
+> *ignorance, the root and stem of all evil.*
 
 </div>
 <!-- quote-end -->
