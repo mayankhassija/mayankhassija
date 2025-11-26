@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *ignorance, the root and stem of all evil.*
+> *to raise new questions, new possibilities, to regard old problems from a new angle, requires creative imagination and marks real advance in science.*
 
 </div>
 <!-- quote-end -->
