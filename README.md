@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to raise new questions, new possibilities, to regard old problems from a new angle, requires creative imagination and marks real advance in science.*
+> *when you are tough on yourself, life is going to be infinitely easier on you.*
 
 </div>
 <!-- quote-end -->
