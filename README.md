@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when you are tough on yourself, life is going to be infinitely easier on you.*
+> *leaders are visionaries with a poorly developed sense of fear and no concept of the odds against them.*
 
 </div>
 <!-- quote-end -->
