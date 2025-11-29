@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *leaders are visionaries with a poorly developed sense of fear and no concept of the odds against them.*
+> *you can‘t pre-live any day from your future. today is all there is.*
 
 </div>
 <!-- quote-end -->
