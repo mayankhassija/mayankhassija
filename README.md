@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can‘t pre-live any day from your future. today is all there is.*
+> *strive to increase order and discipline in your life.*
 
 </div>
 <!-- quote-end -->
