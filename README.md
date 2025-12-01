@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *strive to increase order and discipline in your life.*
+> *change before you have to.*
 
 </div>
 <!-- quote-end -->
