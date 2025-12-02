@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *change before you have to.*
+> *when the going gets tough, the tough get going.*
 
 </div>
 <!-- quote-end -->
