@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when the going gets tough, the tough get going.*
+> *you must lose a fly to catch a trout.*
 
 </div>
 <!-- quote-end -->
