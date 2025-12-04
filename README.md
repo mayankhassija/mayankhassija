@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you must lose a fly to catch a trout.*
+> *participate joyfully in the sorrows of the world. we cannot cure the world of sorrows, but we can choose to live in joy.*
 
 </div>
 <!-- quote-end -->
