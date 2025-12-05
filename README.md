@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *participate joyfully in the sorrows of the world. we cannot cure the world of sorrows, but we can choose to live in joy.*
+> *a man cannot be comfortable without his own approval.*
 
 </div>
 <!-- quote-end -->
