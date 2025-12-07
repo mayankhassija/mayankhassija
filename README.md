@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *ask yourself whether you should wait for the greatness of heaven or should we start early, enjoying the many blessings available in the here and now. after all, the earth and all its wonderment was also created for our benefit by the creator of the universe.*
+> *wherever you are, be there!*
 
 </div>
 <!-- quote-end -->
