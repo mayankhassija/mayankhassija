@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *wherever you are, be there!*
+> *live like you don't have much time left... but plan as if you'll live for centuries.*
 
 </div>
 <!-- quote-end -->
