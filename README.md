@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *live like you don't have much time left... but plan as if you'll live for centuries.*
+> *i have nothing new to teach the world. truth and non-violence are as old as the hills. all i have done is to try experiments in both on as vast a scale as i could.*
 
 </div>
 <!-- quote-end -->
