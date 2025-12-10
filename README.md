@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i have nothing new to teach the world. truth and non-violence are as old as the hills. all i have done is to try experiments in both on as vast a scale as i could.*
+> *memory is deceptive because it is colored by today's events.*
 
 </div>
 <!-- quote-end -->
