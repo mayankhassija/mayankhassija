@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *memory is deceptive because it is colored by today's events.*
+> *what god intended for you goes far beyond anything you can imagine.*
 
 </div>
 <!-- quote-end -->
