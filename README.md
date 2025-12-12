@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what god intended for you goes far beyond anything you can imagine.*
+> *no one knows whether death, which people fear to be the greatest evil, may not be the greatest good.*
 
 </div>
 <!-- quote-end -->
