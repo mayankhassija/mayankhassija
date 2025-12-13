@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no one knows whether death, which people fear to be the greatest evil, may not be the greatest good.*
+> *what luck for rulers it is that men do not think. (adolf hitler) what material success does is provide you with the ability to concentrate on other things that really matter. and that is being able to make a difference, not only in your own life, but in other people's lives.*
 
 </div>
 <!-- quote-end -->
