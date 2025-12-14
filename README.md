@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what luck for rulers it is that men do not think. (adolf hitler) what material success does is provide you with the ability to concentrate on other things that really matter. and that is being able to make a difference, not only in your own life, but in other people's lives.*
+> *slavery begins with ―mandatory volunteering.‖ sleep is the best meditation.*
 
 </div>
 <!-- quote-end -->
