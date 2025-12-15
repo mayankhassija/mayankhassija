@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *slavery begins with ―mandatory volunteering.‖ sleep is the best meditation.*
+> *may we so love as never to have occasion to repent of our love!*
 
 </div>
 <!-- quote-end -->
