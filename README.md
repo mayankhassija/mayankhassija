@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *may we so love as never to have occasion to repent of our love!*
+> *i am a great believer that any tool that enhances communication has profound effects in terms of how people can learn from each other, and how they can achieve the kind of freedoms that they're interested in.*
 
 </div>
 <!-- quote-end -->
