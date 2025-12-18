@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when you judge another, you do not define them, you define yourself.*
+> *who is powerful? he who governs his passions.*
 
 </div>
 <!-- quote-end -->
