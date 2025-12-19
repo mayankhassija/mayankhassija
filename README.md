@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *who is powerful? he who governs his passions.*
+> *love is a friendship set to music.*
 
 </div>
 <!-- quote-end -->
