@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *love is a friendship set to music.*
+> *reason is not automatic. those who deny it cannot be conquered by it. do not count on them. leave them alone.*
 
 </div>
 <!-- quote-end -->
