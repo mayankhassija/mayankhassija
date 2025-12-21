@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *reason is not automatic. those who deny it cannot be conquered by it. do not count on them. leave them alone.*
+> *every day do something that will inch you closer to a better tomorrow.*
 
 </div>
 <!-- quote-end -->
