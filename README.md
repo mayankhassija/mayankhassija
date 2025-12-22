@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *every day do something that will inch you closer to a better tomorrow.*
+> *setting a goal is not the main thing. it is deciding how you will go about achieving it and staying with that plan.*
 
 </div>
 <!-- quote-end -->
