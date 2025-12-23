@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *setting a goal is not the main thing. it is deciding how you will go about achieving it and staying with that plan.*
+> *he who learns but does not think, is lost! he who thinks but does not learn is in great danger.*
 
 </div>
 <!-- quote-end -->
