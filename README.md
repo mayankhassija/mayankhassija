@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *he who learns but does not think, is lost! he who thinks but does not learn is in great danger.*
+> *one may say the eternal mystery of the world is its comprehensibility.*
 
 </div>
 <!-- quote-end -->
