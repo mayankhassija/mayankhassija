@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *one may say the eternal mystery of the world is its comprehensibility.*
+> *why not invest your assets in the companies you really like? as mae west said, "too much of a good thing can be wonderful".*
 
 </div>
 <!-- quote-end -->
