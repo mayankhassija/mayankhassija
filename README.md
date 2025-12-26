@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *why not invest your assets in the companies you really like? as mae west said, "too much of a good thing can be wonderful".*
+> *people should think things out fresh and not just accept conventional terms and the conventional way of doing things.*
 
 </div>
 <!-- quote-end -->
