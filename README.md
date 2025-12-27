@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people should think things out fresh and not just accept conventional terms and the conventional way of doing things.*
+> *being idealistic really helps you overcome some of the many obstacles put in your path.*
 
 </div>
 <!-- quote-end -->
