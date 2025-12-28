@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *being idealistic really helps you overcome some of the many obstacles put in your path.*
+> *many hear about what happened, only the smartest in the crowd ever ask why it happened.*
 
 </div>
 <!-- quote-end -->
