@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *many hear about what happened, only the smartest in the crowd ever ask why it happened.*
+> *a table, a chair, a bowl of fruit and music; what else does a man need to be happy?*
 
 </div>
 <!-- quote-end -->
