@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a table, a chair, a bowl of fruit and music; what else does a man need to be happy?*
+> *let us live so that when we come to die even the undertaker will be sorry.*
 
 </div>
 <!-- quote-end -->
