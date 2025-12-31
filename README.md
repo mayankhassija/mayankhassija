@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *let us live so that when we come to die even the undertaker will be sorry.*
+> *experience isn't interesting until it begins to repeat itself. in fact, till it does that, it hardly is experience.*
 
 </div>
 <!-- quote-end -->
