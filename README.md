@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *experience isn't interesting until it begins to repeat itself. in fact, till it does that, it hardly is experience.*
+> *no one would have crossed the ocean if he could have gotten off the ship in the storm.*
 
 </div>
 <!-- quote-end -->
