@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no one would have crossed the ocean if he could have gotten off the ship in the storm.*
+> *half a truth is often a great lie.*
 
 </div>
 <!-- quote-end -->
