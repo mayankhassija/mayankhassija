@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *half a truth is often a great lie.*
+> *there is only one true success--to be able to enjoy life on your own terms.*
 
 </div>
 <!-- quote-end -->
