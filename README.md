@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is only one true success--to be able to enjoy life on your own terms.*
+> *the first man gets the oyster, the second man gets the shell.*
 
 </div>
 <!-- quote-end -->
