@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the first man gets the oyster, the second man gets the shell.*
+> *earn more than you spend. no exceptions!*
 
 </div>
 <!-- quote-end -->
