@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *earn more than you spend. no exceptions!*
+> *so long as the memory of certain beloved friends lives in my heart, i shall say that life is good.*
 
 </div>
 <!-- quote-end -->
