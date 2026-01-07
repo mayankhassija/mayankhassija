@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *so long as the memory of certain beloved friends lives in my heart, i shall say that life is good.*
+> *without feelings of respect, what is there to distinguish men from beasts?*
 
 </div>
 <!-- quote-end -->
