@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when one has the feeling of dislike for evil, when one feels tranquil, one finds pleasure in listening to good teachings; when one has these feelings and appreciates them, one is free of fear.*
+> *i firmly believe that any man's finest hour, the greatest fulfillment of all that he holds dear, is the moment when he has worked his heart out in a good cause and lies exhausted on the field of battle-victorious.*
 
 </div>
 <!-- quote-end -->
