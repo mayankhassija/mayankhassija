@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i firmly believe that any man's finest hour, the greatest fulfillment of all that he holds dear, is the moment when he has worked his heart out in a good cause and lies exhausted on the field of battle-victorious.*
+> *use soft words and hard arguments.*
 
 </div>
 <!-- quote-end -->
