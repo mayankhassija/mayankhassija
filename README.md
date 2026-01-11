@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *use soft words and hard arguments.*
+> *there is more treasure in books than in all the pirate's loot on treasure island.*
 
 </div>
 <!-- quote-end -->
