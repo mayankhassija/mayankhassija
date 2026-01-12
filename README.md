@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is more treasure in books than in all the pirate's loot on treasure island.*
+> *who is wise? he who learns from everyone.*
 
 </div>
 <!-- quote-end -->
