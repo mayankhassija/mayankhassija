@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it's heavy duty to try to do everything and please everybody... my job was to go out there and play the game of basketball as best i can - people may not agree with that... i can't live with what everyone's impression of what i should or what i shouldn't do.*
+> *the gateway to christianity is not through an intricate labyrinth of dogma, but by a simple belief in the person of christ.*
 
 </div>
 <!-- quote-end -->
