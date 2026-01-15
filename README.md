@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the gateway to christianity is not through an intricate labyrinth of dogma, but by a simple belief in the person of christ.*
+> *it isn't enough for you to love money -- it's also necessary that money should love you.*
 
 </div>
 <!-- quote-end -->
