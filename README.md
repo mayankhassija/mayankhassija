@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it isn't enough for you to love money -- it's also necessary that money should love you.*
+> *the easiest thing to be in the world is you. the most difficult thing to be is what other people want you to be. don't let them put you in that position.*
 
 </div>
 <!-- quote-end -->
