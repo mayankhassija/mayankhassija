@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the easiest thing to be in the world is you. the most difficult thing to be is what other people want you to be. don't let them put you in that position.*
+> *the best job goes to the person who can get it done without passing the buck or coming back with excuses.*
 
 </div>
 <!-- quote-end -->
