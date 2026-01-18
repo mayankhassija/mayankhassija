@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the best job goes to the person who can get it done without passing the buck or coming back with excuses.*
+> *all that a man achieves… or fails to achieve… is the direct result of his own thoughts.*
 
 </div>
 <!-- quote-end -->
