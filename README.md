@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all that a man achieves… or fails to achieve… is the direct result of his own thoughts.*
+> *information technology and business are becoming inextricably interwoven. i don't think anybody can talk meaningfully about one without the talking about the other.*
 
 </div>
 <!-- quote-end -->
