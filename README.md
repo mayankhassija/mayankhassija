@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *information technology and business are becoming inextricably interwoven. i don't think anybody can talk meaningfully about one without the talking about the other.*
+> *the best teacher is the one who suggests rather than dogmatizes, and inspires his listener with the wish to teach himself.*
 
 </div>
 <!-- quote-end -->
