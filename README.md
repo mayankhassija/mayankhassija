@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the best teacher is the one who suggests rather than dogmatizes, and inspires his listener with the wish to teach himself.*
+> *stuff happens. the stuff that happens, good or bad, isn‘t what‘s important. what is important is how you react to it.*
 
 </div>
 <!-- quote-end -->
