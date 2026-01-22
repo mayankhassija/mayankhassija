@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *stuff happens. the stuff that happens, good or bad, isn‘t what‘s important. what is important is how you react to it.*
+> *it takes a lifetime of effort to build a good reputation but only a moment of stupidity to destroy it.*
 
 </div>
 <!-- quote-end -->
