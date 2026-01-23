@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it takes a lifetime of effort to build a good reputation but only a moment of stupidity to destroy it.*
+> *if what you are doing is not moving you towards your goals, then it's moving you away from your goals.*
 
 </div>
 <!-- quote-end -->
