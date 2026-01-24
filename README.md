@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if what you are doing is not moving you towards your goals, then it's moving you away from your goals.*
+> *i am here for a purpose and that purpose is to grow into a mountain, not to shrink to a grain of sand. henceforth will i apply all my efforts to become the highest mountain of all and i will strain my potential until it cries for mercy.*
 
 </div>
 <!-- quote-end -->
