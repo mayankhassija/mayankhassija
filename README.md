@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i am here for a purpose and that purpose is to grow into a mountain, not to shrink to a grain of sand. henceforth will i apply all my efforts to become the highest mountain of all and i will strain my potential until it cries for mercy.*
+> *where ignorance is our master, there is no possibility of real peace.*
 
 </div>
 <!-- quote-end -->
