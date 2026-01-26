@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *where ignorance is our master, there is no possibility of real peace.*
+> *every act you have ever performed since the day you were born was performed because you wanted something.*
 
 </div>
 <!-- quote-end -->
