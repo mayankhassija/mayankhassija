@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *every act you have ever performed since the day you were born was performed because you wanted something.*
+> *the first thing the secretary types is the boss.*
 
 </div>
 <!-- quote-end -->
