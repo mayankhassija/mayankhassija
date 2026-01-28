@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the first thing the secretary types is the boss.*
+> *make important decisions carefully, consider your gut feelings... then pull the trigger.*
 
 </div>
 <!-- quote-end -->
