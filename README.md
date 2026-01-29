@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *make important decisions carefully, consider your gut feelings... then pull the trigger.*
+> *nature puts no question and answers none which we mortals ask. she has long ago taken her resolution.*
 
 </div>
 <!-- quote-end -->
