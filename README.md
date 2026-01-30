@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nature puts no question and answers none which we mortals ask. she has long ago taken her resolution.*
+> *prayer is the key of the morning and the bolt of the evening.*
 
 </div>
 <!-- quote-end -->
