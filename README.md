@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *prayer is the key of the morning and the bolt of the evening.*
+> *take 100 percent responsibility for your life.*
 
 </div>
 <!-- quote-end -->
