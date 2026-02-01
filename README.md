@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *take 100 percent responsibility for your life.*
+> *the truth is that running hurts. no one gets faster without meeting their personal pain barrier straight on. no amount of junk miles, fun runs or affirmations are going to get you over the hill at the five mile mark in a 10k. however, what will pull you through is solid prep with hard hill runs and interval work.*
 
 </div>
 <!-- quote-end -->
