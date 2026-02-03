@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life operates in reverse action to entropy. therefore the universe is hostile to life.*
+> *well done is better than well said.*
 
 </div>
 <!-- quote-end -->
