@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *well done is better than well said.*
+> *it is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.*
 
 </div>
 <!-- quote-end -->
