@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.*
+> *if all misfortunes were laid in one common heap whence everyone must take an equal portion, most people would be contented to take their own and depart.*
 
 </div>
 <!-- quote-end -->
