@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if all misfortunes were laid in one common heap whence everyone must take an equal portion, most people would be contented to take their own and depart.*
+> *when you're curious, you find lots of interesting things to do.*
 
 </div>
 <!-- quote-end -->
