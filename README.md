@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when you're curious, you find lots of interesting things to do.*
+> *if you watch a game, it's fun. if you play it, it's recreation. if you work at it, it's golf.*
 
 </div>
 <!-- quote-end -->
