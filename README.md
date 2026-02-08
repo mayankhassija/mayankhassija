@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you watch a game, it's fun. if you play it, it's recreation. if you work at it, it's golf.*
+> *change is the law of life and those who look only to the past or present are certain to miss the future.*
 
 </div>
 <!-- quote-end -->
