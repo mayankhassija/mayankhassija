@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *change is the law of life and those who look only to the past or present are certain to miss the future.*
+> *let not the sun go down upon your wrath.*
 
 </div>
 <!-- quote-end -->
