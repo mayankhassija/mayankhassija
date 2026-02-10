@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *let not the sun go down upon your wrath.*
+> *a temptation resisted is a true measure of character.*
 
 </div>
 <!-- quote-end -->
