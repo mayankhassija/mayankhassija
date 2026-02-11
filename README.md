@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a temptation resisted is a true measure of character.*
+> *it is for us to pray not for tasks equal to our powers, but for powers equal to our tasks, to go forward with a great desire forever beating at the door of our hearts as we travel toward our distant goal.*
 
 </div>
 <!-- quote-end -->
