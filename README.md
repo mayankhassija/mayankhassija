@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the pain of discipline is far less than the pain of regret.*
+> *the key to success is to focus our conscious mind on things we desire not things we fear.*
 
 </div>
 <!-- quote-end -->
