@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the key to success is to focus our conscious mind on things we desire not things we fear.*
+> *gravitation is not responsible for people falling in love.*
 
 </div>
 <!-- quote-end -->
