@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *gravitation is not responsible for people falling in love.*
+> *it is well enough that people of the nation do not understand our banking and monetary system, for if they did, i believe there would be a revolution before tomorrow morning.*
 
 </div>
 <!-- quote-end -->
