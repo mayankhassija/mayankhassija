@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is well enough that people of the nation do not understand our banking and monetary system, for if they did, i believe there would be a revolution before tomorrow morning.*
+> *small opportunities are often the beginning of great enterprises.*
 
 </div>
 <!-- quote-end -->
