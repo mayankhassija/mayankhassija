@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *small opportunities are often the beginning of great enterprises.*
+> *whoever said anybody has a right to give up?*
 
 </div>
 <!-- quote-end -->
