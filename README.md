@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whoever said anybody has a right to give up?*
+> *don't just read the easy stuff. you may be entertained by it, but you will never grow from it.*
 
 </div>
 <!-- quote-end -->
