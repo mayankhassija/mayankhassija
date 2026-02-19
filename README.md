@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *don't just read the easy stuff. you may be entertained by it, but you will never grow from it.*
+> *failure lies not in falling down. failure lies in not getting up.*
 
 </div>
 <!-- quote-end -->
