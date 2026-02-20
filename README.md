@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *failure lies not in falling down. failure lies in not getting up.*
+> *do not depend upon others.*
 
 </div>
 <!-- quote-end -->
