@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do not depend upon others.*
+> *honest disagreement is often a good sign of progress.*
 
 </div>
 <!-- quote-end -->
