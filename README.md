@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *honest disagreement is often a good sign of progress.*
+> *you can't get much done in life if you only work on the days when you feel good.*
 
 </div>
 <!-- quote-end -->
