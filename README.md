@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can't get much done in life if you only work on the days when you feel good.*
+> *successful people begin where failures leave off. never settle for "just getting the job done." excel!*
 
 </div>
 <!-- quote-end -->
