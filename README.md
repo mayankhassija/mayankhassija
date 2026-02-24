@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *successful people begin where failures leave off. never settle for "just getting the job done." excel!*
+> *the price of excellence is discipline. the cost of mediocrity is disappointment.*
 
 </div>
 <!-- quote-end -->
