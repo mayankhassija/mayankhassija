@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the price of excellence is discipline. the cost of mediocrity is disappointment.*
+> *i would go out with women my age, but there are no women my age.*
 
 </div>
 <!-- quote-end -->
