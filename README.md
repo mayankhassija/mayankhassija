@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i would go out with women my age, but there are no women my age.*
+> *it is said an eastern monarch once charged his wise men to invent him a sentence to be ever in view, and which should be true and appropriate in all times and situations. they presented him the words: "and this, too, shall pass away.*
 
 </div>
 <!-- quote-end -->
