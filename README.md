@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only reason for time is so that everything doesn't happen at once.*
+> *it usually takes me more than three weeks to prepare a good impromptu speech.*
 
 </div>
 <!-- quote-end -->
