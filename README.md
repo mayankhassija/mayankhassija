@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it usually takes me more than three weeks to prepare a good impromptu speech.*
+> *we may never be strong enough to be entirely nonviolent in thought, word and deed. but we must keep nonviolence as our goal and make strong progress towards it.*
 
 </div>
 <!-- quote-end -->
