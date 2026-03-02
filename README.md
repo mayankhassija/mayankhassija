@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we may never be strong enough to be entirely nonviolent in thought, word and deed. but we must keep nonviolence as our goal and make strong progress towards it.*
+> *so live that you wouldn't be ashamed to sell the family parrot to the town gossip.*
 
 </div>
 <!-- quote-end -->
