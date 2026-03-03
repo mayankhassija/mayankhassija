@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *so live that you wouldn't be ashamed to sell the family parrot to the town gossip.*
+> *one-third of the people in the united states promote, while the other two-thirds provide.*
 
 </div>
 <!-- quote-end -->
