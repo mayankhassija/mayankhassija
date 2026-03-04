@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *one-third of the people in the united states promote, while the other two-thirds provide.*
+> *one might think that the money value of an invention constitutes its reward to the man who loves his work. but... i continue to find my greatest pleasure, and so my reward, in the work that precedes what the world calls success.*
 
 </div>
 <!-- quote-end -->
