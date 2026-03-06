@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *money is the barometer of a society's virtue.*
+> *in human intercourse the tragedy begins, not when there is misunderstanding about words, but when silence is not understood.*
 
 </div>
 <!-- quote-end -->
