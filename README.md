@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in human intercourse the tragedy begins, not when there is misunderstanding about words, but when silence is not understood.*
+> *to refuse awards is another way of accepting them with more noise than is normal.*
 
 </div>
 <!-- quote-end -->
