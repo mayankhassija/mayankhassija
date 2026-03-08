@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to refuse awards is another way of accepting them with more noise than is normal.*
+> *we do not have a money problem in america. we have a values and priorities problem.*
 
 </div>
 <!-- quote-end -->
