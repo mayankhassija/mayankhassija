@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we do not have a money problem in america. we have a values and priorities problem.*
+> *competence starts with guaranteeing your work.*
 
 </div>
 <!-- quote-end -->
