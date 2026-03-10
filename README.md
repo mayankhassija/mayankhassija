@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *competence starts with guaranteeing your work.*
+> *the truest wisdom is a resolute determination.*
 
 </div>
 <!-- quote-end -->
