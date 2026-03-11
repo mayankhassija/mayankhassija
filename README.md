@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the truest wisdom is a resolute determination.*
+> *we must use time as a tool, not as a crutch.*
 
 </div>
 <!-- quote-end -->
