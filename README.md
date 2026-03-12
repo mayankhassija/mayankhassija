@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we must use time as a tool, not as a crutch.*
+> *avoiding danger is no safer in the long run than outright exposure. life is either a daring adventure, or nothing. the fearful are caught as often as the bold.*
 
 </div>
 <!-- quote-end -->
