@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *teamwork: simply stated is, less me and more we.*
+> *success in its highest and noblest form calls for peace of mind and enjoyment and happiness which come only to the man who has found the work that he likes best.*
 
 </div>
 <!-- quote-end -->
