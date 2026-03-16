@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if honor be your clothing, the suit will last a lifetime; but if clothing be your honor, it will soon be worn threadbare.*
+> *the major reason for setting a goal is for what it makes of you to accomplish it. what it makes of you will always be the far greater value than what you get.*
 
 </div>
 <!-- quote-end -->
