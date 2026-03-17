@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the major reason for setting a goal is for what it makes of you to accomplish it. what it makes of you will always be the far greater value than what you get.*
+> *prohibition was better than no liquor at all.*
 
 </div>
 <!-- quote-end -->
