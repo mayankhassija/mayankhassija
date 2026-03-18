@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *prohibition was better than no liquor at all.*
+> *your life only gets better when you get better.*
 
 </div>
 <!-- quote-end -->
