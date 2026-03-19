@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *your life only gets better when you get better.*
+> *love takes off masks that we fear we cannot live without and know we cannot live within.*
 
 </div>
 <!-- quote-end -->
