@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *love takes off masks that we fear we cannot live without and know we cannot live within.*
+> *drop the idea that you are atlas carrying the world on your shoulders. the world will go on long after you‘re gone. don‘t take life so seriously; don't take yourself so seriously.*
 
 </div>
 <!-- quote-end -->
