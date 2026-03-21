@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *drop the idea that you are atlas carrying the world on your shoulders. the world will go on long after you‘re gone. don‘t take life so seriously; don't take yourself so seriously.*
+> *that a majority of people do not wish for any important change in their lives merely proves that they are slaves to their own habits.*
 
 </div>
 <!-- quote-end -->
