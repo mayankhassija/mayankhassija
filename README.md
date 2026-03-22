@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *that a majority of people do not wish for any important change in their lives merely proves that they are slaves to their own habits.*
+> *i am opposed to the laying down of rules or conditions to be observed in the construction of bridges lest the progress of improvement tomorrow might be embarrassed or shackled by recording or registering as law the prejudices or errors of today.*
 
 </div>
 <!-- quote-end -->
