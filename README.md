@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i am opposed to the laying down of rules or conditions to be observed in the construction of bridges lest the progress of improvement tomorrow might be embarrassed or shackled by recording or registering as law the prejudices or errors of today.*
+> *take care of your body. it's the only place you have to live.*
 
 </div>
 <!-- quote-end -->
