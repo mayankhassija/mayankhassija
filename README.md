@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *take care of your body. it's the only place you have to live.*
+> *it is well to give when asked, but it is better to give unasked, through understanding.*
 
 </div>
 <!-- quote-end -->
