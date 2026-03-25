@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is well to give when asked, but it is better to give unasked, through understanding.*
+> *advertising is ‗the art of convincing people‘ to: spend money they don't have; for something they don‘t want; for something they don't even need; to impress people they don‘t even like.*
 
 </div>
 <!-- quote-end -->
