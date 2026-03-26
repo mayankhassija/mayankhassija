@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *advertising is ‗the art of convincing people‘ to: spend money they don't have; for something they don‘t want; for something they don't even need; to impress people they don‘t even like.*
+> *there is no rule more invariable than that we are paid for our suspicions by finding what we suspect.*
 
 </div>
 <!-- quote-end -->
