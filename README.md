@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no rule more invariable than that we are paid for our suspicions by finding what we suspect.*
+> *you have within you right now, everything you need to deal with whatever the world can throw at you.*
 
 </div>
 <!-- quote-end -->
