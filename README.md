@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you have within you right now, everything you need to deal with whatever the world can throw at you.*
+> *technology is just a tool. in terms of getting the kids working together and motivating them, the teacher is the most important.*
 
 </div>
 <!-- quote-end -->
