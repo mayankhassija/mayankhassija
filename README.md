@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *technology is just a tool. in terms of getting the kids working together and motivating them, the teacher is the most important.*
+> *example is not the main thing in influencing others. it is the only thing.*
 
 </div>
 <!-- quote-end -->
