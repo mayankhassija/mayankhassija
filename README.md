@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *example is not the main thing in influencing others. it is the only thing.*
+> *it isn't always enough, to be forgiven by others. sometimes, you have to learn to forgive yourself.*
 
 </div>
 <!-- quote-end -->
