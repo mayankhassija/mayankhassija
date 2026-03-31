@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it isn't always enough, to be forgiven by others. sometimes, you have to learn to forgive yourself.*
+> *the book you don't read won't help you.*
 
 </div>
 <!-- quote-end -->
