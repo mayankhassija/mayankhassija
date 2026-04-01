@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the book you don't read won't help you.*
+> *the more tranquil a man becomes, the greater is his success, his influence, his power for good.*
 
 </div>
 <!-- quote-end -->
