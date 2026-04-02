@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the more tranquil a man becomes, the greater is his success, his influence, his power for good.*
+> *i have made the tough decisions, always with an eye toward the bottom line. perhaps it's time america was run like a business.*
 
 </div>
 <!-- quote-end -->
