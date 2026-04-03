@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i have made the tough decisions, always with an eye toward the bottom line. perhaps it's time america was run like a business.*
+> *to see the right and not to do it is cowardice.*
 
 </div>
 <!-- quote-end -->
