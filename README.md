@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to see the right and not to do it is cowardice.*
+> *i decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean.*
 
 </div>
 <!-- quote-end -->
