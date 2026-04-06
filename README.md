@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the secret of success is constancy to purpose.*
+> *pessimism never won any battle.*
 
 </div>
 <!-- quote-end -->
