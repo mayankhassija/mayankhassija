@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *pessimism never won any battle.*
+> *when what we are is what we want to be, that's happiness.*
 
 </div>
 <!-- quote-end -->
