@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when what we are is what we want to be, that's happiness.*
+> *things don't turn up in this world until somebody turns them up.*
 
 </div>
 <!-- quote-end -->
