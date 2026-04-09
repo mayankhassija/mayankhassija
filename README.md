@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *things don't turn up in this world until somebody turns them up.*
+> *everyone lives by selling something.*
 
 </div>
 <!-- quote-end -->
