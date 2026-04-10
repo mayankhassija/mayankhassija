@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *everyone lives by selling something.*
+> *when it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.*
 
 </div>
 <!-- quote-end -->
