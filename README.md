@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.*
+> *the youth gets together his materials to build a bridge to the moon, or, perchance, a palace or temple on the earth, and, at length, the middle-aged man concludes to build a woodshed with them.*
 
 </div>
 <!-- quote-end -->
