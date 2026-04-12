@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the youth gets together his materials to build a bridge to the moon, or, perchance, a palace or temple on the earth, and, at length, the middle-aged man concludes to build a woodshed with them.*
+> *states are not moral agents, people are, and can impose moral standards on powerful institutions.*
 
 </div>
 <!-- quote-end -->
