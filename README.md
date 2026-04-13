@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *states are not moral agents, people are, and can impose moral standards on powerful institutions.*
+> *if you think you can do a thing or think you can't do a thing, you're right.*
 
 </div>
 <!-- quote-end -->
