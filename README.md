@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you think you can do a thing or think you can't do a thing, you're right.*
+> *learn what you have to learn… so you can earn what you have to earn…. so you can save what you have to save… so you can invest what you have to invest… so you can retire financially comfortable.*
 
 </div>
 <!-- quote-end -->
