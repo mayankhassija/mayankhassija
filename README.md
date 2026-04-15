@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *learn what you have to learn… so you can earn what you have to earn…. so you can save what you have to save… so you can invest what you have to invest… so you can retire financially comfortable.*
+> *the greatest good you can do for another is not just share your riches, but reveal to them their own.*
 
 </div>
 <!-- quote-end -->
