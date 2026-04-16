@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the greatest good you can do for another is not just share your riches, but reveal to them their own.*
+> *you don't love a woman because she is beautiful, but she is beautiful because you love her.*
 
 </div>
 <!-- quote-end -->
