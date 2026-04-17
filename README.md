@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you don't love a woman because she is beautiful, but she is beautiful because you love her.*
+> *in questions of science, the authority of a thousand is not worth the humble reasoning of a single individual.*
 
 </div>
 <!-- quote-end -->
