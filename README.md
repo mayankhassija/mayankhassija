@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in questions of science, the authority of a thousand is not worth the humble reasoning of a single individual.*
+> *i never did, or countenanced, in public life, a single act inconsistent with the strictest good faith; having never believed there was one code of morality for a public, and another for a private man.*
 
 </div>
 <!-- quote-end -->
