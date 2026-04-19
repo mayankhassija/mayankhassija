@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i never did, or countenanced, in public life, a single act inconsistent with the strictest good faith; having never believed there was one code of morality for a public, and another for a private man.*
+> *faith - visualize your desire. believe you can achieve your desire.*
 
 </div>
 <!-- quote-end -->
