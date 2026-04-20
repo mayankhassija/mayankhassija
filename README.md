@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *faith - visualize your desire. believe you can achieve your desire.*
+> *dare to be great!*
 
 </div>
 <!-- quote-end -->
