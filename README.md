@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *dare to be great!*
+> *men are nearly always willing to believe what they wish.*
 
 </div>
 <!-- quote-end -->
