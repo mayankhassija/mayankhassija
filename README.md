@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *men are nearly always willing to believe what they wish.*
+> *the role of a writer is not to say what we all can say, but what we are unable to say.*
 
 </div>
 <!-- quote-end -->
