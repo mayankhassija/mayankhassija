@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when the tyrant has disposed of foreign enemies by conquest or treaty, and there is nothing more to fear from them, then he is always stirring up some war or other, in order that the people may require a leader.*
+> *are creeds such simple things like the clothes which a man can change at will and put on at will? creeds are such for which people live for ages and ages.*
 
 </div>
 <!-- quote-end -->
