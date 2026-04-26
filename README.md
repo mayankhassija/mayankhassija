@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *are creeds such simple things like the clothes which a man can change at will and put on at will? creeds are such for which people live for ages and ages.*
+> *i learned that the only way you are going to get anywhere in life is to work hard at it.*
 
 </div>
 <!-- quote-end -->
