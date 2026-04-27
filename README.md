@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i learned that the only way you are going to get anywhere in life is to work hard at it.*
+> *a thousand words will not leave so deep an impression as one deed.*
 
 </div>
 <!-- quote-end -->
