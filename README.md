@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a thousand words will not leave so deep an impression as one deed.*
+> *sometimes by losing a battle you find a new way to win the war.*
 
 </div>
 <!-- quote-end -->
