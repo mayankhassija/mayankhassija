@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *sometimes by losing a battle you find a new way to win the war.*
+> *the will is the mental faculty that gives you the ability to hold one idea under the screen of your mind to the exclusion of all outside distractions.*
 
 </div>
 <!-- quote-end -->
