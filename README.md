@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the will is the mental faculty that gives you the ability to hold one idea under the screen of your mind to the exclusion of all outside distractions.*
+> *the end of life is to be like god, and the soul following god will be like him.*
 
 </div>
 <!-- quote-end -->
