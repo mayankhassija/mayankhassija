@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the end of life is to be like god, and the soul following god will be like him.*
+> *speakers who talk about what life has taught them never fail to keep the attention of their listeners.*
 
 </div>
 <!-- quote-end -->
