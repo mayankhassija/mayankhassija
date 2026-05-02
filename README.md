@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *speakers who talk about what life has taught them never fail to keep the attention of their listeners.*
+> *failure lies not in falling down. failure lies in not getting up.*
 
 </div>
 <!-- quote-end -->
