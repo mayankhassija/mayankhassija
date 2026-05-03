@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *failure lies not in falling down. failure lies in not getting up.*
+> *spending money you have not yet earned leads to a place you don‘t really want to be.*
 
 </div>
 <!-- quote-end -->
