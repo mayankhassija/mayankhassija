@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *spending money you have not yet earned leads to a place you don‘t really want to be.*
+> *i'm not telling you it is going to be easy - i'm telling you it's going to be worth it.*
 
 </div>
 <!-- quote-end -->
