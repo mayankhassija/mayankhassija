@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i'm not telling you it is going to be easy - i'm telling you it's going to be worth it.*
+> *follow your instincts. that's where true wisdom manifests itself.*
 
 </div>
 <!-- quote-end -->
