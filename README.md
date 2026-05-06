@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *follow your instincts. that's where true wisdom manifests itself.*
+> *the greatness of a nation can be judged by the way its animals are treated.*
 
 </div>
 <!-- quote-end -->
