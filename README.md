@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the greatness of a nation can be judged by the way its animals are treated.*
+> *whenever i go on a ride, i'm always thinking of what's wrong with the thing and how it can be improved.*
 
 </div>
 <!-- quote-end -->
