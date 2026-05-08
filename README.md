@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whenever i go on a ride, i'm always thinking of what's wrong with the thing and how it can be improved.*
+> *a professional is nothing more than an amateur who never stopped trying.*
 
 </div>
 <!-- quote-end -->
