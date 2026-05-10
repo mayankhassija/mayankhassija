@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *perception is what you believe to be true based on five things: sight; smell; taste; touch and hearing.*
+> *i am a spiritual person living in a human body, not a human body with a spirit.*
 
 </div>
 <!-- quote-end -->
