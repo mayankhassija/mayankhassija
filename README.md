@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i am a spiritual person living in a human body, not a human body with a spirit.*
+> *power comes from stripping away appearances and seeing things as they really are.*
 
 </div>
 <!-- quote-end -->
