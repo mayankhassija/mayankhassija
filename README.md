@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *power comes from stripping away appearances and seeing things as they really are.*
+> *life is just a mirror, and what you see out there, you must first see inside of you.*
 
 </div>
 <!-- quote-end -->
