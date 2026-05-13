@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life is just a mirror, and what you see out there, you must first see inside of you.*
+> *the secret of a good sermon is to have a good beginning and a good ending, then having the two as close together as possible.*
 
 </div>
 <!-- quote-end -->
