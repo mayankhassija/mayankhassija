@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the secret of a good sermon is to have a good beginning and a good ending, then having the two as close together as possible.*
+> *the blame is his who chooses: god is blameless.*
 
 </div>
 <!-- quote-end -->
