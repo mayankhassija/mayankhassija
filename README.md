@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the blame is his who chooses: god is blameless.*
+> *enter every activity without giving mental recognition to the possibility of defeat. concentrate on your strengths, instead of your weaknesses... on your powers, instead of your problems.*
 
 </div>
 <!-- quote-end -->
