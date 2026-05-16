@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *enter every activity without giving mental recognition to the possibility of defeat. concentrate on your strengths, instead of your weaknesses... on your powers, instead of your problems.*
+> *i still have my feet on the ground, i just wear better shoes.*
 
 </div>
 <!-- quote-end -->
