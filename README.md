@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i still have my feet on the ground, i just wear better shoes.*
+> *climate is what we expect, weather is what we get.*
 
 </div>
 <!-- quote-end -->
