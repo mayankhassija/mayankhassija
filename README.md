@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *climate is what we expect, weather is what we get.*
+> *if you treat your wife like a thoroughbred, you'll never end up with a nag.*
 
 </div>
 <!-- quote-end -->
