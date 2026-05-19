@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if you treat your wife like a thoroughbred, you'll never end up with a nag.*
+> *those who bring sunshine into the lives of others, cannot keep it from themselves.*
 
 </div>
 <!-- quote-end -->
