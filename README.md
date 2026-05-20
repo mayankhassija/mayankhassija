@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *those who bring sunshine into the lives of others, cannot keep it from themselves.*
+> *the possession of knowledge does not kill the sense of wonder and mystery. there is always more mystery.*
 
 </div>
 <!-- quote-end -->
