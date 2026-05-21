@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the possession of knowledge does not kill the sense of wonder and mystery. there is always more mystery.*
+> *the community which has neither poverty nor riches will always have the noblest principles.*
 
 </div>
 <!-- quote-end -->
