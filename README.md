@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the community which has neither poverty nor riches will always have the noblest principles.*
+> *it is the quality of our work which will please god and not the quantity.*
 
 </div>
 <!-- quote-end -->
