@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is the quality of our work which will please god and not the quantity.*
+> *i'm not happy, i'm cheerful. there's a difference. a happy woman has no cares at all. a cheerful woman has cares but has learned how to deal with them.*
 
 </div>
 <!-- quote-end -->
