@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i'm not happy, i'm cheerful. there's a difference. a happy woman has no cares at all. a cheerful woman has cares but has learned how to deal with them.*
+> *in prayer it is better to have a heart without words than words without a heart.*
 
 </div>
 <!-- quote-end -->
