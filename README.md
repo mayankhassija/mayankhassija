@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in prayer it is better to have a heart without words than words without a heart.*
+> *the young do not know enough to be prudent, and therefore they attempt the impossible – and achieve it – generation after generation.*
 
 </div>
 <!-- quote-end -->
