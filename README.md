@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the young do not know enough to be prudent, and therefore they attempt the impossible – and achieve it – generation after generation.*
+> *there are four ways, and only four ways, in which we have contact with the world. we are evaluated and classified by these four contacts: what we do, how we look, what we say, and how we say it.*
 
 </div>
 <!-- quote-end -->
