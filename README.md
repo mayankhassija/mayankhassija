@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are four ways, and only four ways, in which we have contact with the world. we are evaluated and classified by these four contacts: what we do, how we look, what we say, and how we say it.*
+> *the curse of me and my nation is that we always think things can be bettered by immediate action of some sort, any sort rather than no sort.*
 
 </div>
 <!-- quote-end -->
