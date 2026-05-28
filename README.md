@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the curse of me and my nation is that we always think things can be bettered by immediate action of some sort, any sort rather than no sort.*
+> *the wisest men follow their own direction.*
 
 </div>
 <!-- quote-end -->
