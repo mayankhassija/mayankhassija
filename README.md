@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the wisest men follow their own direction.*
+> *most men are within a finger's breadth of being mad.*
 
 </div>
 <!-- quote-end -->
