@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *most men are within a finger's breadth of being mad.*
+> *build upon strengths, and weaknesses will gradually take care of themselves.*
 
 </div>
 <!-- quote-end -->
