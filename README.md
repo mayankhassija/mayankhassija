@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *build upon strengths, and weaknesses will gradually take care of themselves.*
+> *part of your heritage in this society is the opportunity to become financially independent.*
 
 </div>
 <!-- quote-end -->
