@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *part of your heritage in this society is the opportunity to become financially independent.*
+> *we don't know one millionth of one percent about anything.*
 
 </div>
 <!-- quote-end -->
