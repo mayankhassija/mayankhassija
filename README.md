@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we don't know one millionth of one percent about anything.*
+> *the most pathetic person in the world is someone who has sight, but has no vision.*
 
 </div>
 <!-- quote-end -->
