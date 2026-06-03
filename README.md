@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the most pathetic person in the world is someone who has sight, but has no vision.*
+> *dream as if you'll live forever, live as if you'll die today.*
 
 </div>
 <!-- quote-end -->
