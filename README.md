@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *dream as if you'll live forever, live as if you'll die today.*
+> *no one ever teaches well who wants to teach, or governs well who wants to govern.*
 
 </div>
 <!-- quote-end -->
