@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no one ever teaches well who wants to teach, or governs well who wants to govern.*
+> *hope for the best and prepare for the worst.*
 
 </div>
 <!-- quote-end -->
