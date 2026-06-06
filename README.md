@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *hope for the best and prepare for the worst.*
+> *self-pity gets you nowhere. one must have the adventurous daring to accept oneself as a bundle of possibilities and undertake the most interesting game in the world -making the most of one's best.*
 
 </div>
 <!-- quote-end -->
