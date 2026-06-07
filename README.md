@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *self-pity gets you nowhere. one must have the adventurous daring to accept oneself as a bundle of possibilities and undertake the most interesting game in the world -making the most of one's best.*
+> *my biggest failure is i have too many to talk about.*
 
 </div>
 <!-- quote-end -->
