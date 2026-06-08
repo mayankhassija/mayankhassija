@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *my biggest failure is i have too many to talk about.*
+> *force and mind are opposites; morality ends where a gun begins.*
 
 </div>
 <!-- quote-end -->
