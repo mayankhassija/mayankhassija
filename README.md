@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *force and mind are opposites; morality ends where a gun begins.*
+> *i know god will not give me anything i can't handle. i just wish that he didn't trust me so much.*
 
 </div>
 <!-- quote-end -->
