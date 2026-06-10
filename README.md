@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i know god will not give me anything i can't handle. i just wish that he didn't trust me so much.*
+> *to maximize opportunities, seek and master the complicated. the major solutions you find will be surprisingly simple, and the competition is minimal.*
 
 </div>
 <!-- quote-end -->
