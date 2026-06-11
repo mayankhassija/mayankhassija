@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to maximize opportunities, seek and master the complicated. the major solutions you find will be surprisingly simple, and the competition is minimal.*
+> *genius is one percent inspiration and ninety-nine percent perspiration.*
 
 </div>
 <!-- quote-end -->
