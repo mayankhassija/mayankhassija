@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *genius is one percent inspiration and ninety-nine percent perspiration.*
+> *he who commits injustice is ever made more wretched than he who suffers it.*
 
 </div>
 <!-- quote-end -->
