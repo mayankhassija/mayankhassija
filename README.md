@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there's a victory, and defeat; the first and best of victories, the lowest and worst of defeats which each man gains or sustains at the hands not of another, but of himself.*
+> *excellence always has a buyer.*
 
 </div>
 <!-- quote-end -->
