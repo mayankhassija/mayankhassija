@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *excellence always has a buyer.*
+> *what is a weed? a plant whose virtues have not yet been discovered.*
 
 </div>
 <!-- quote-end -->
