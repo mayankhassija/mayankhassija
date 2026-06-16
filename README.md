@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *what is a weed? a plant whose virtues have not yet been discovered.*
+> *the ‘how’ you get it—with integrity—is more important than the ‘what’.*
 
 </div>
 <!-- quote-end -->
