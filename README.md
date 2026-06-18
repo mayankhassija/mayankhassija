@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.*
+> *he who would accomplish little must sacrifice little; he who would achieve much must sacrifice much; he who would attain highly must sacrifice greatly.*
 
 </div>
 <!-- quote-end -->
