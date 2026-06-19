@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *he who would accomplish little must sacrifice little; he who would achieve much must sacrifice much; he who would attain highly must sacrifice greatly.*
+> *action does not always bring happiness; but there is no happiness without action.*
 
 </div>
 <!-- quote-end -->
