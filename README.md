@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *action does not always bring happiness; but there is no happiness without action.*
+> *democracy passes into despotism.*
 
 </div>
 <!-- quote-end -->
