@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *democracy passes into despotism.*
+> *never trouble another for what you can do yourself.*
 
 </div>
 <!-- quote-end -->
