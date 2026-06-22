@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never trouble another for what you can do yourself.*
+> *when your heart speaks, take good notes.*
 
 </div>
 <!-- quote-end -->
