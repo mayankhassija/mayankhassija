@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when your heart speaks, take good notes.*
+> *nature is full of genius, full of the divinity; so that not a snowflake escapes its fashioning hand.*
 
 </div>
 <!-- quote-end -->
