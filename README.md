@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nature is full of genius, full of the divinity; so that not a snowflake escapes its fashioning hand.*
+> *kindness in giving creates love.*
 
 </div>
 <!-- quote-end -->
