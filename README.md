@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *kindness in giving creates love.*
+> *we either make ourselves miserable or we make ourselves strong. the amount of work is the same.*
 
 </div>
 <!-- quote-end -->
