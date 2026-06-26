@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we either make ourselves miserable or we make ourselves strong. the amount of work is the same.*
+> *experience is a revelation in the light of which we renounce our errors of youth for those of age.*
 
 </div>
 <!-- quote-end -->
