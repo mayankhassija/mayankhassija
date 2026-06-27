@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *experience is a revelation in the light of which we renounce our errors of youth for those of age.*
+> *man can never be a woman's equal in the spirit of selfless service with which nature has endowed her.*
 
 </div>
 <!-- quote-end -->
