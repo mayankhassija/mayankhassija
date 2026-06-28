@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *man can never be a woman's equal in the spirit of selfless service with which nature has endowed her.*
+> *we must be willing to let go of the life we have planned, so as to have the life that is waiting for us.*
 
 </div>
 <!-- quote-end -->
