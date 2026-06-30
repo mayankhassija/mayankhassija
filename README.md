@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when somebody challenges you, fight back. be brutal, be tough.*
+> *the art of being happy lies in the power of extracting happiness from common things.*
 
 </div>
 <!-- quote-end -->
