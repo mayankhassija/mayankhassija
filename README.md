@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the art of being happy lies in the power of extracting happiness from common things.*
+> *committee - a group of men who individually can do nothing but as a group decide that nothing can be done.*
 
 </div>
 <!-- quote-end -->
