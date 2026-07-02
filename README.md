@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *committee - a group of men who individually can do nothing but as a group decide that nothing can be done.*
+> *when someone makes a big issue about his honesty or achievements, he is probably dishonest or a failure.*
 
 </div>
 <!-- quote-end -->
