@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *when someone makes a big issue about his honesty or achievements, he is probably dishonest or a failure.*
+> *you only have to consistently do a very few things right in your life so long as you don't consistently do too many things wrong.*
 
 </div>
 <!-- quote-end -->
