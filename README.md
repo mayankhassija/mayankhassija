@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you only have to consistently do a very few things right in your life so long as you don't consistently do too many things wrong.*
+> *no man ever listened himself out of a job.*
 
 </div>
 <!-- quote-end -->
