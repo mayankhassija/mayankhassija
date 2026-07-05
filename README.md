@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no man ever listened himself out of a job.*
+> *one way or another, we all have to find what best fosters the flowering of our humanity in this contemporary life, and dedicate ourselves to that.*
 
 </div>
 <!-- quote-end -->
