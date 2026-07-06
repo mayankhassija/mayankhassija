@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *one way or another, we all have to find what best fosters the flowering of our humanity in this contemporary life, and dedicate ourselves to that.*
+> *there is no access to any form of success without commitment.*
 
 </div>
 <!-- quote-end -->
