@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is no access to any form of success without commitment.*
+> *worrying is like a rocking chair, there‘s a lot of action, but it doesn‘t get you anywhere.*
 
 </div>
 <!-- quote-end -->
