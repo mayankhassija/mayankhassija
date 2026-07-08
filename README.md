@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *worrying is like a rocking chair, there‘s a lot of action, but it doesn‘t get you anywhere.*
+> *great things are not done by impulse, but by a series of small things brought together.*
 
 </div>
 <!-- quote-end -->
