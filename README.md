@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *great things are not done by impulse, but by a series of small things brought together.*
+> *justice is sweet and musical; but injustice is harsh and discordant.*
 
 </div>
 <!-- quote-end -->
