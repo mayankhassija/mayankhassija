@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *justice is sweet and musical; but injustice is harsh and discordant.*
+> *an idealist is a person who helps other people to be prosperous.*
 
 </div>
 <!-- quote-end -->
