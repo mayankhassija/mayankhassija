@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *an idealist is a person who helps other people to be prosperous.*
+> *there are two ways to live: you can live as if nothing is a miracle; you can live as if everything is a miracle.*
 
 </div>
 <!-- quote-end -->
