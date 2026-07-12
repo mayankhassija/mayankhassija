@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are two ways to live: you can live as if nothing is a miracle; you can live as if everything is a miracle.*
+> *always bear in mind that your own resolution to succeed is more important than any other.*
 
 </div>
 <!-- quote-end -->
