@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *always bear in mind that your own resolution to succeed is more important than any other.*
+> *never lose a holy curiosity.*
 
 </div>
 <!-- quote-end -->
