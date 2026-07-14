@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never lose a holy curiosity.*
+> *want to learn to eat a lot? here it is: eat a little. that way, you will be around long enough to eat a lot.*
 
 </div>
 <!-- quote-end -->
