@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *want to learn to eat a lot? here it is: eat a little. that way, you will be around long enough to eat a lot.*
+> *games lubricate the body and the mind.*
 
 </div>
 <!-- quote-end -->
