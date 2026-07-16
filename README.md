@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *games lubricate the body and the mind.*
+> *it is what a man thinks of himself that really determines his fate.*
 
 </div>
 <!-- quote-end -->
