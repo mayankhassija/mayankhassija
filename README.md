@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is what a man thinks of himself that really determines his fate.*
+> *think of all the beauty still left around you and be happy.*
 
 </div>
 <!-- quote-end -->
