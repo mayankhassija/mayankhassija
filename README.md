@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *think of all the beauty still left around you and be happy.*
+> *a teacher is a compass that activates the magnets of curiosity, knowledge, and wisdom in the pupils.*
 
 </div>
 <!-- quote-end -->
