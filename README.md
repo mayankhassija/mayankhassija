@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a teacher is a compass that activates the magnets of curiosity, knowledge, and wisdom in the pupils.*
+> *you don‘t enjoy anything until you share it with someone else.*
 
 </div>
 <!-- quote-end -->
