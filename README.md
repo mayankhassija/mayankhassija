@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you don‘t enjoy anything until you share it with someone else.*
+> *to keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.*
 
 </div>
 <!-- quote-end -->
