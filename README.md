@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.*
+> *we should feel sorrow, but not sink under its oppression.*
 
 </div>
 <!-- quote-end -->
