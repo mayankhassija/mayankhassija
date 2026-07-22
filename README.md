@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we should feel sorrow, but not sink under its oppression.*
+> *miss a meal if you have to, but don't miss a book.*
 
 </div>
 <!-- quote-end -->
