@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *miss a meal if you have to, but don't miss a book.*
+> *the lawyer's truth is not truth, but consistency or a consistent expediency.*
 
 </div>
 <!-- quote-end -->
