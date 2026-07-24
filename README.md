@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the lawyer's truth is not truth, but consistency or a consistent expediency.*
+> *you are the only real obstacle in your path to a fulfilling life.*
 
 </div>
 <!-- quote-end -->
