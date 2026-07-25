@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you are the only real obstacle in your path to a fulfilling life.*
+> *glory is fleeting, but obscurity is forever.*
 
 </div>
 <!-- quote-end -->
