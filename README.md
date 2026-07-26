@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *glory is fleeting, but obscurity is forever.*
+> *those who know how to think need no teachers.*
 
 </div>
 <!-- quote-end -->
