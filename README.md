@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *those who know how to think need no teachers.*
+> *every obnoxious act is a cry for help.*
 
 </div>
 <!-- quote-end -->
