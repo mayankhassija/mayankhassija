@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *every obnoxious act is a cry for help.*
+> *there are three kinds of men. the one that learns by reading. the few who learn by observation. the rest of them have to pee on the electric fence for themselves.*
 
 </div>
 <!-- quote-end -->
