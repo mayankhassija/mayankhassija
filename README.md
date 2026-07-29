@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are three kinds of men. the one that learns by reading. the few who learn by observation. the rest of them have to pee on the electric fence for themselves.*
+> *train your brain.*
 
 </div>
 <!-- quote-end -->
