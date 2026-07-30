@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *train your brain.*
+> *you'll find boredom where there is the absence of a good idea.*
 
 </div>
 <!-- quote-end -->
