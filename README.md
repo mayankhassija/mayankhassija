@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you'll find boredom where there is the absence of a good idea.*
+> *it's not what you pay a man, but what he costs you that counts.*
 
 </div>
 <!-- quote-end -->
