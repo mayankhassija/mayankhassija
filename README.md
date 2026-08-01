@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it's not what you pay a man, but what he costs you that counts.*
+> *the fact that i can plant a seed and it becomes a flower, share a bit of knowledge and it becomes another's, smile at someone and receive a smile in return, are to me continual spiritual exercises.*
 
 </div>
 <!-- quote-end -->
