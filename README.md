@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the fact that i can plant a seed and it becomes a flower, share a bit of knowledge and it becomes another's, smile at someone and receive a smile in return, are to me continual spiritual exercises.*
+> *if i have been of service, if i have glimpsed more of the nature and essence of ultimate good, if i am inspired to reach wider horizons of thought and action, if i am at peace with myself, it has been a successful day.*
 
 </div>
 <!-- quote-end -->
