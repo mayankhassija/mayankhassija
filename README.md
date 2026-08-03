@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if i have been of service, if i have glimpsed more of the nature and essence of ultimate good, if i am inspired to reach wider horizons of thought and action, if i am at peace with myself, it has been a successful day.*
+> *the secret to a rich life is to have more beginnings than endings.*
 
 </div>
 <!-- quote-end -->
