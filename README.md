@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the secret to a rich life is to have more beginnings than endings.*
+> *riches do not consist in the possession of treasures, but in the use made of them.*
 
 </div>
 <!-- quote-end -->
