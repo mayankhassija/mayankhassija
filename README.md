@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *riches do not consist in the possession of treasures, but in the use made of them.*
+> *in a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.*
 
 </div>
 <!-- quote-end -->
