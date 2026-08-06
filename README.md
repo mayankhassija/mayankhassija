@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.*
+> *achieving life is not the equivalent of avoiding death.*
 
 </div>
 <!-- quote-end -->
