@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *achieving life is not the equivalent of avoiding death.*
+> *reduce your plan to writing. the moment you complete this, you will have definitely given concrete form to the intangible desire.*
 
 </div>
 <!-- quote-end -->
