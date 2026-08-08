@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *reduce your plan to writing. the moment you complete this, you will have definitely given concrete form to the intangible desire.*
+> *take a deep breath. it calms the mind.*
 
 </div>
 <!-- quote-end -->
