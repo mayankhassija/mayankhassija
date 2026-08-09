@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *take a deep breath. it calms the mind.*
+> *if honor be your clothing, the suit will last a lifetime; but if clothing be your honor, it will soon be worn threadbare.*
 
 </div>
 <!-- quote-end -->
