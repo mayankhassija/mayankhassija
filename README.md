@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if honor be your clothing, the suit will last a lifetime; but if clothing be your honor, it will soon be worn threadbare.*
+> *you can't get something for (from) nothing. the price is too high.*
 
 </div>
 <!-- quote-end -->
