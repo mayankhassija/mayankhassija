@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can't get something for (from) nothing. the price is too high.*
+> *never bend your head. always hold it high. look the world straight in the eye.*
 
 </div>
 <!-- quote-end -->
