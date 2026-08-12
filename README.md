@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never bend your head. always hold it high. look the world straight in the eye.*
+> *don't fight the forces, use them to your advantage.*
 
 </div>
 <!-- quote-end -->
