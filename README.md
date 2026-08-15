@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *ignorance and inconsideration are the two great causes of the ruin of mankind.*
+> *do your work with your whole heart and you will succeed. there‘s so little competition at that level.*
 
 </div>
 <!-- quote-end -->
