@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do your work with your whole heart and you will succeed. there‘s so little competition at that level.*
+> *do not be awe struck by other people and try to copy them. nobody can be you as efficiently as you can.*
 
 </div>
 <!-- quote-end -->
