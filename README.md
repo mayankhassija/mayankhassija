@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do not be awe struck by other people and try to copy them. nobody can be you as efficiently as you can.*
+> *a pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.*
 
 </div>
 <!-- quote-end -->
