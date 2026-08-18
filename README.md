@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.*
+> *never say that the desire to "do good" by force is a good motive. neither power, lust nor stupidity are good motives.*
 
 </div>
 <!-- quote-end -->
