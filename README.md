@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *never say that the desire to "do good" by force is a good motive. neither power, lust nor stupidity are good motives.*
+> *men of age object too much, consult too long, adventure too little, repent too soon, and seldom drive business home to the full period, but content themselves with a mediocrity of success.*
 
 </div>
 <!-- quote-end -->
