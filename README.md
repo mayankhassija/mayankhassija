@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *men of age object too much, consult too long, adventure too little, repent too soon, and seldom drive business home to the full period, but content themselves with a mediocrity of success.*
+> *the primary purpose of business is to create and keep customers. marketing and innovation produce results. all other business functions are costs. prospecting and increasing the average value and frequency of sales are the bedrock of marketing and business.*
 
 </div>
 <!-- quote-end -->
