@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the primary purpose of business is to create and keep customers. marketing and innovation produce results. all other business functions are costs. prospecting and increasing the average value and frequency of sales are the bedrock of marketing and business.*
+> *pollution is nothing but the resources we are not harvesting. we allow them to disperse because we've been ignorant of their value.*
 
 </div>
 <!-- quote-end -->
