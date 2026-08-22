@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *pollution is nothing but the resources we are not harvesting. we allow them to disperse because we've been ignorant of their value.*
+> *power is not only what you have but what the other side thinks you have.*
 
 </div>
 <!-- quote-end -->
