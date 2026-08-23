@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *power is not only what you have but what the other side thinks you have.*
+> *the greatest good you can do for another is not just share your riches, but reveal to them their own.*
 
 </div>
 <!-- quote-end -->
