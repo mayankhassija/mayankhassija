@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the greatest good you can do for another is not just share your riches, but reveal to them their own.*
+> *laws control the lesser man... right conduct controls the greater one.*
 
 </div>
 <!-- quote-end -->
