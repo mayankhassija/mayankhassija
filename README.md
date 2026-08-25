@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *laws control the lesser man... right conduct controls the greater one.*
+> *life lived for tomorrow will always be just a day away from being realized.*
 
 </div>
 <!-- quote-end -->
