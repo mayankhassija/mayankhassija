@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *life lived for tomorrow will always be just a day away from being realized.*
+> *get rid of anything that isn‘t useful, beautiful or joyful.*
 
 </div>
 <!-- quote-end -->
