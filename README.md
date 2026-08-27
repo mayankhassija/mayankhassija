@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *get rid of anything that isn‘t useful, beautiful or joyful.*
+> *throughout the centuries there have been so many men who took first steps, down new roads, armed with nothing but their own vision.*
 
 </div>
 <!-- quote-end -->
