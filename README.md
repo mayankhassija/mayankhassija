@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *throughout the centuries there have been so many men who took first steps, down new roads, armed with nothing but their own vision.*
+> *to have done anything just for money is to have been truly idle.*
 
 </div>
 <!-- quote-end -->
