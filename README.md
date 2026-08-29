@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to have done anything just for money is to have been truly idle.*
+> *you are never too old to set another goal or to dream a new dream.*
 
 </div>
 <!-- quote-end -->
