@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you are never too old to set another goal or to dream a new dream.*
+> *we should distrust any enterprise that requires new clothes.*
 
 </div>
 <!-- quote-end -->
