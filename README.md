@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we should distrust any enterprise that requires new clothes.*
+> *a slave is one who waits for someone to come and free him." a slip of the foot you soon recover, but a slip of the tongue you never get over.*
 
 </div>
 <!-- quote-end -->
