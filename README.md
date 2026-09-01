@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a slave is one who waits for someone to come and free him." a slip of the foot you soon recover, but a slip of the tongue you never get over.*
+> *you cannot change what you do not acknowledge (as a personal short coming). you have to face it before you replace it.*
 
 </div>
 <!-- quote-end -->
