@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you cannot change what you do not acknowledge (as a personal short coming). you have to face it before you replace it.*
+> *master mind, power of – the driving force (step #9 to success.) maturity has more to do with what types of experiences you've had and what you've learned from them and less to do with how many birthdays you've celebrated.*
 
 </div>
 <!-- quote-end -->
