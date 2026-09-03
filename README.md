@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *master mind, power of – the driving force (step #9 to success.) maturity has more to do with what types of experiences you've had and what you've learned from them and less to do with how many birthdays you've celebrated.*
+> *i have continued to work at different things, and rebuilt my home all by myself. i did it for the sake of satisfaction at doing something. i did it because i happened to be where i was.*
 
 </div>
 <!-- quote-end -->
