@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i have continued to work at different things, and rebuilt my home all by myself. i did it for the sake of satisfaction at doing something. i did it because i happened to be where i was.*
+> *the only power any government has is the power to crack down on criminals. well, when there aren't enough criminals, one makes them. one declares so many things to be a crime that it becomes impossible for men to live without breaking laws.*
 
 </div>
 <!-- quote-end -->
