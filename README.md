@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only power any government has is the power to crack down on criminals. well, when there aren't enough criminals, one makes them. one declares so many things to be a crime that it becomes impossible for men to live without breaking laws.*
+> *knowledge rests not upon truth alone, but upon error also.*
 
 </div>
 <!-- quote-end -->
