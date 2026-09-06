@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *knowledge rests not upon truth alone, but upon error also.*
+> *no one saves us but ourselves. no one can and no one may. we ourselves must walk the path.*
 
 </div>
 <!-- quote-end -->
