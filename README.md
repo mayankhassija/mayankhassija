@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the biggest adventure you can take is to live the life of your dreams.*
+> *age wrinkles the body. quitting wrinkles the soul.*
 
 </div>
 <!-- quote-end -->
