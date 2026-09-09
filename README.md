@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *age wrinkles the body. quitting wrinkles the soul.*
+> *the big reason most people don‘t recognize opportunity is, opportunity usually comes into your life wearing a clever disguise. it looks a lot like a problem. every problem needs to be solved. that‘s where the opportunity is. regardless of what you think you do for a living; regardless of your job title; regardless of what your job description says you do, you are first and foremost nothing more than a problem solver.*
 
 </div>
 <!-- quote-end -->
