@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a man is literally what he thinks, his character being the complete sum of all his thoughts.*
+> *nothing goes by luck in composition. it allows of no tricks. the best you can write will be the best you are.*
 
 </div>
 <!-- quote-end -->
