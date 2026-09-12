@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *nothing goes by luck in composition. it allows of no tricks. the best you can write will be the best you are.*
+> *always work on increasing the size of the pie, rather than just your portion.*
 
 </div>
 <!-- quote-end -->
