@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *always work on increasing the size of the pie, rather than just your portion.*
+> *people love chopping wood. in this activity one immediately sees results.*
 
 </div>
 <!-- quote-end -->
