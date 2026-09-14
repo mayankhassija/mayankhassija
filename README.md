@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *people love chopping wood. in this activity one immediately sees results.*
+> *to waste time is to waste your life.*
 
 </div>
 <!-- quote-end -->
