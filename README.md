@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to waste time is to waste your life.*
+> *a man has to live with himself, and he should see to it that he always has good company.*
 
 </div>
 <!-- quote-end -->
