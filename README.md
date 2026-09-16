@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *a man has to live with himself, and he should see to it that he always has good company.*
+> *all compromise is based on give and take, but there can be no give and take on fundamentals. any compromise on mere fundamentals is a surrender. for it is all give and no take.*
 
 </div>
 <!-- quote-end -->
