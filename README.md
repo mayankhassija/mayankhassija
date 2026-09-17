@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all compromise is based on give and take, but there can be no give and take on fundamentals. any compromise on mere fundamentals is a surrender. for it is all give and no take.*
+> *it‘s not the critic that counts, not the man who points out how the strong man stumbles, or where the doer of deeds could have done better. the credit belongs to the man who is actually in the arena.*
 
 </div>
 <!-- quote-end -->
