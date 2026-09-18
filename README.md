@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it‘s not the critic that counts, not the man who points out how the strong man stumbles, or where the doer of deeds could have done better. the credit belongs to the man who is actually in the arena.*
+> *there will one day spring from the brain of science a machine or force so fearful in its potentialities, so absolutely terrifying, that even man, the fighter, who will dare torture and death in order to inflict torture and death, will be appalled, and so abandon war forever.*
 
 </div>
 <!-- quote-end -->
