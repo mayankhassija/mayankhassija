@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there will one day spring from the brain of science a machine or force so fearful in its potentialities, so absolutely terrifying, that even man, the fighter, who will dare torture and death in order to inflict torture and death, will be appalled, and so abandon war forever.*
+> *everybody loves everybody. when it‘s time to divide the profits the atmosphere is more like a bitter divorce. don‘t be surprised, expect it and be totally prepared.*
 
 </div>
 <!-- quote-end -->
