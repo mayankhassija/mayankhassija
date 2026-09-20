@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *everybody loves everybody. when it‘s time to divide the profits the atmosphere is more like a bitter divorce. don‘t be surprised, expect it and be totally prepared.*
+> *you don't marry someone you can live with - you marry the person who you cannot live without.*
 
 </div>
 <!-- quote-end -->
