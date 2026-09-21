@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you don't marry someone you can live with - you marry the person who you cannot live without.*
+> *the brick walls are not there to keep us out; the brick walls are there to give us a chance to show how badly we want something... because the brick walls are there to stop the people who don't want it badly enough. they're there to stop the other people, but not you, if you‘re willing.*
 
 </div>
 <!-- quote-end -->
