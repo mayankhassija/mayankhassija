@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the brick walls are not there to keep us out; the brick walls are there to give us a chance to show how badly we want something... because the brick walls are there to stop the people who don't want it badly enough. they're there to stop the other people, but not you, if you‘re willing.*
+> *perhaps the action you take will be successful; perhaps different action or adjustments will have to follow.*
 
 </div>
 <!-- quote-end -->
