@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *perhaps the action you take will be successful; perhaps different action or adjustments will have to follow.*
+> *we cannot solve our problems with the same thinking we used when we created them.*
 
 </div>
 <!-- quote-end -->
