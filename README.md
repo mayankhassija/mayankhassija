@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we cannot solve our problems with the same thinking we used when we created them.*
+> *big pay and little responsibility are circumstances seldom found together.*
 
 </div>
 <!-- quote-end -->
