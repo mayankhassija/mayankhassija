@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *big pay and little responsibility are circumstances seldom found together.*
+> *if the situation is not right in the long term, walk away from it.*
 
 </div>
 <!-- quote-end -->
