@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if the situation is not right in the long term, walk away from it.*
+> *it is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.*
 
 </div>
 <!-- quote-end -->
