@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *it is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.*
+> *love never dies a natural death. it dies because we don't know how to replenish it's source. it dies of blindness and errors and betrayals. it dies of illness and wounds; it dies of weariness, of witherings, of tarnishings.*
 
 </div>
 <!-- quote-end -->
