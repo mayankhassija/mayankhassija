@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *love never dies a natural death. it dies because we don't know how to replenish it's source. it dies of blindness and errors and betrayals. it dies of illness and wounds; it dies of weariness, of witherings, of tarnishings.*
+> *whatever you do, you need courage. whatever course you decide upon, there is always someone to tell you that you are wrong. there are always difficulties arising that tempt you to believe your critics are right.*
 
 </div>
 <!-- quote-end -->
