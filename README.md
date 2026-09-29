@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *whatever you do, you need courage. whatever course you decide upon, there is always someone to tell you that you are wrong. there are always difficulties arising that tempt you to believe your critics are right.*
+> *wisdom, compassion, and courage are the three universally recognized moral qualities of men.*
 
 </div>
 <!-- quote-end -->
