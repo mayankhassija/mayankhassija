@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *wisdom, compassion, and courage are the three universally recognized moral qualities of men.*
+> *develop an attitude of gratitude, and give thanks for everything that happens to you, knowing that every step forward is a step toward achieving something bigger and better than your current situation.*
 
 </div>
 <!-- quote-end -->
