@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *develop an attitude of gratitude, and give thanks for everything that happens to you, knowing that every step forward is a step toward achieving something bigger and better than your current situation.*
+> *capital, in some form or other will always be needed.*
 
 </div>
 <!-- quote-end -->
