@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *capital, in some form or other will always be needed.*
+> *one of the greatest pieces of economic wisdom is to know what you do not know.*
 
 </div>
 <!-- quote-end -->
