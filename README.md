@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *an innovation is one of those things that society looks at and says, if we make this part of the way we live and work, it will change the way we live and work.*
+> *each one prays to god according to his own light.*
 
 </div>
 <!-- quote-end -->
