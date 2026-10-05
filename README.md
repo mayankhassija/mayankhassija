@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *each one prays to god according to his own light.*
+> *failure lies not in falling down. failure lies in not getting up.*
 
 </div>
 <!-- quote-end -->
