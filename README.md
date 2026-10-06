@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *failure lies not in falling down. failure lies in not getting up.*
+> *there is a wisdom of the head, and a wisdom of the heart.*
 
 </div>
 <!-- quote-end -->
