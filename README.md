@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is a wisdom of the head, and a wisdom of the heart.*
+> *let the future tell the truth, and evaluate each one according to his work and accomplishments. the present is theirs; the future, for which i have really worked, is mine.*
 
 </div>
 <!-- quote-end -->
