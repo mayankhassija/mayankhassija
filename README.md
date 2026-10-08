@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *let the future tell the truth, and evaluate each one according to his work and accomplishments. the present is theirs; the future, for which i have really worked, is mine.*
+> *the only thing that overcomes hard luck is hard work.*
 
 </div>
 <!-- quote-end -->
