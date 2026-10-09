@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the only thing that overcomes hard luck is hard work.*
+> *to know what people really think, pay regard to what they do, rather than what they say.*
 
 </div>
 <!-- quote-end -->
