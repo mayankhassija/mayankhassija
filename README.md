@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to know what people really think, pay regard to what they do, rather than what they say.*
+> *a teacher's purpose is not to create students in his own image, but to develop students who can create their own image.*
 
 </div>
 <!-- quote-end -->
