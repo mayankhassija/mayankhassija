@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you have always succeeded… in producing a result.*
+> *dare to be all that you can be. you can do almost anything. the question is, are you willing?*
 
 </div>
 <!-- quote-end -->
