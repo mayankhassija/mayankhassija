@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *dare to be all that you can be. you can do almost anything. the question is, are you willing?*
+> *the path to success is to take massive, focused action.*
 
 </div>
 <!-- quote-end -->
