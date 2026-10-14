@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the path to success is to take massive, focused action.*
+> *we can never obtain peace in the outer world until we make peace with ourselves.*
 
 </div>
 <!-- quote-end -->
