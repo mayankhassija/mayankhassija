@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *we can never obtain peace in the outer world until we make peace with ourselves.*
+> *to a philosopher all news, as it is called, is gossip, and they who edit and read it are old women over their tea.*
 
 </div>
 <!-- quote-end -->
