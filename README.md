@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *to a philosopher all news, as it is called, is gossip, and they who edit and read it are old women over their tea.*
+> *there are three things you cannot do: kiss a girl leaning away from you; climb a fence leaning toward you; and help someone who doesn‘t want to be helped.*
 
 </div>
 <!-- quote-end -->
