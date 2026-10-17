@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are three things you cannot do: kiss a girl leaning away from you; climb a fence leaning toward you; and help someone who doesn‘t want to be helped.*
+> *the most potent weapon of the oppressor is the mind of the oppressed.*
 
 </div>
 <!-- quote-end -->
