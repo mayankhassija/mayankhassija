@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the most potent weapon of the oppressor is the mind of the oppressed.*
+> *my biggest worry is i'm running out of time and energy. thirty years ago i thought 10 years was a really long time.*
 
 </div>
 <!-- quote-end -->
