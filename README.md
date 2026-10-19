@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *my biggest worry is i'm running out of time and energy. thirty years ago i thought 10 years was a really long time.*
+> *he who asks a question is a fool for a minute; he who does not remains a fool forever.*
 
 </div>
 <!-- quote-end -->
