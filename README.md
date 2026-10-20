@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *he who asks a question is a fool for a minute; he who does not remains a fool forever.*
+> *animation can best explain whatever the mind of man can conceive. this facility makes it the most versatile and explicit means of communication yet devised for quick mass appreciation.*
 
 </div>
 <!-- quote-end -->
