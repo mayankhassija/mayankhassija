@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *animation can best explain whatever the mind of man can conceive. this facility makes it the most versatile and explicit means of communication yet devised for quick mass appreciation.*
+> *an attitude of expectancy seems to magically attract all sorts of serendipitous opportunities that did not exist before the attitude change.*
 
 </div>
 <!-- quote-end -->
