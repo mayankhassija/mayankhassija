@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *an attitude of expectancy seems to magically attract all sorts of serendipitous opportunities that did not exist before the attitude change.*
+> *you can't just sit there and wait for people to give you that golden dream; you've got to get out there and make it happen for yourself.*
 
 </div>
 <!-- quote-end -->
