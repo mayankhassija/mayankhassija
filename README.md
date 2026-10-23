@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can't just sit there and wait for people to give you that golden dream; you've got to get out there and make it happen for yourself.*
+> *our necessities will never out number our wants.*
 
 </div>
 <!-- quote-end -->
