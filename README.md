@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *our necessities will never out number our wants.*
+> *better than a thousand hollow words, is one word that brings peace.*
 
 </div>
 <!-- quote-end -->
