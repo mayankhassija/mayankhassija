@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *better than a thousand hollow words, is one word that brings peace.*
+> *success is neither magical or mysterious. success is the natural consequence of consistently applying the basic fundamentals.*
 
 </div>
 <!-- quote-end -->
