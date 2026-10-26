@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *success is neither magical or mysterious. success is the natural consequence of consistently applying the basic fundamentals.*
+> *for me every ruler is alien that defies public opinion.*
 
 </div>
 <!-- quote-end -->
