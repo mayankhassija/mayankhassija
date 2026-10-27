@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *for me every ruler is alien that defies public opinion.*
+> *we do not have a money problem in america. we have a values and priorities problem.*
 
 </div>
 <!-- quote-end -->
