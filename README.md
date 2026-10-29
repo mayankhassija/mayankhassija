@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *the environment is everything that isn't me.*
+> *our inventions are wont to be pretty toys, which distract our attention from serious things. they are but improved means to an unimproved end.*
 
 </div>
 <!-- quote-end -->
