@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *our inventions are wont to be pretty toys, which distract our attention from serious things. they are but improved means to an unimproved end.*
+> *experience is a dear teacher, but fools will learn no other way.*
 
 </div>
 <!-- quote-end -->
