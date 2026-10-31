@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *experience is a dear teacher, but fools will learn no other way.*
+> *conscious mind – your awareness of self and your environment, in real time.*
 
 </div>
 <!-- quote-end -->
