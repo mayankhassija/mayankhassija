@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *conscious mind – your awareness of self and your environment, in real time.*
+> *in business, you don't get what you deserve, you get what you negotiate.*
 
 </div>
 <!-- quote-end -->
