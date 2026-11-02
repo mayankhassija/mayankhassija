@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in business, you don't get what you deserve, you get what you negotiate.*
+> *i learned that if you want to make it bad enough, no matter how bad it is, you can make it.*
 
 </div>
 <!-- quote-end -->
