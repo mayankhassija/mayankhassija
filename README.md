@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i learned that if you want to make it bad enough, no matter how bad it is, you can make it.*
+> *how far that little candle throws his beams! so shines a good deed in a weary world.*
 
 </div>
 <!-- quote-end -->
