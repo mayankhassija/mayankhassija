@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *how far that little candle throws his beams! so shines a good deed in a weary world.*
+> *real education should consist of drawing the goodness and the best out of our own students.*
 
 </div>
 <!-- quote-end -->
