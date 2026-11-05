@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *real education should consist of drawing the goodness and the best out of our own students.*
+> *understand that the right to choose your own path is a sacred privilege. use it. dwell in possibility.*
 
 </div>
 <!-- quote-end -->
