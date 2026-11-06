@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *understand that the right to choose your own path is a sacred privilege. use it. dwell in possibility.*
+> *this country has come to feel the same way when congress is in session as when the baby gets hold of a hammer.*
 
 </div>
 <!-- quote-end -->
