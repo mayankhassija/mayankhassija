@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *this country has come to feel the same way when congress is in session as when the baby gets hold of a hammer.*
+> *there are three faithful friends - an old wife, an old dog, and ready money.*
 
 </div>
 <!-- quote-end -->
