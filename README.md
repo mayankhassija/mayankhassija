@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there are three faithful friends - an old wife, an old dog, and ready money.*
+> *all you need is a goal, a plan, a road map, and regardless of the detours, distractions or bumpy roads, the courage to keep going as fast as you can until you reach your ultimate destination.*
 
 </div>
 <!-- quote-end -->
