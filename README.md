@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *all you need is a goal, a plan, a road map, and regardless of the detours, distractions or bumpy roads, the courage to keep going as fast as you can until you reach your ultimate destination.*
+> *no pessimist ever discovered the secret of the stars, or sailed to an uncharted land, or opened a new doorway for the human spirit.*
 
 </div>
 <!-- quote-end -->
