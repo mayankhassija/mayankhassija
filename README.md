@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *no pessimist ever discovered the secret of the stars, or sailed to an uncharted land, or opened a new doorway for the human spirit.*
+> *if your purpose of life is security, you will be a failure. security is the lowest form of happiness.*
 
 </div>
 <!-- quote-end -->
