@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if your purpose of life is security, you will be a failure. security is the lowest form of happiness.*
+> *there is nothing wrong with change, if it is in the right direction.*
 
 </div>
 <!-- quote-end -->
