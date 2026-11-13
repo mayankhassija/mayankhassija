@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *consider every mistake you make to be an asset. one more thing you now know doesn‘t work so you never have to waste your time trying to do that again.*
+> *you can discover more about a person in an hour of play than in a year of conversation.*
 
 </div>
 <!-- quote-end -->
