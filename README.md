@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you can discover more about a person in an hour of play than in a year of conversation.*
+> *i will love the light for it shows me the way, yet i will endure the darkness because it shows me the stars.*
 
 </div>
 <!-- quote-end -->
