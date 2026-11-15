@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i will love the light for it shows me the way, yet i will endure the darkness because it shows me the stars.*
+> *men always want to be a womans first love - women like to be a mans last romance.*
 
 </div>
 <!-- quote-end -->
