@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *men always want to be a womans first love - women like to be a mans last romance.*
+> *love is a serious mental disease.*
 
 </div>
 <!-- quote-end -->
