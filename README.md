@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *love is a serious mental disease.*
+> *do you mind if i sit back a little? because your breath is very bad.*
 
 </div>
 <!-- quote-end -->
