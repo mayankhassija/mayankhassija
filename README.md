@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *do you mind if i sit back a little? because your breath is very bad.*
+> *you will never stub your toe standing still. the faster you go, the more chance there is of stubbing your toe, but the more chance you have of getting somewhere.*
 
 </div>
 <!-- quote-end -->
