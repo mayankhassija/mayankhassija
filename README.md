@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *you will never stub your toe standing still. the faster you go, the more chance there is of stubbing your toe, but the more chance you have of getting somewhere.*
+> *there is real magic in enthusiasm. it spells the difference between mediocrity and accomplishment.*
 
 </div>
 <!-- quote-end -->
