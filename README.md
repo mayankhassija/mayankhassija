@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *there is real magic in enthusiasm. it spells the difference between mediocrity and accomplishment.*
+> *people take the longest possible paths, digress to numerous dead ends, and make all kinds of mistakes. then historians come along and write summaries of this messy, nonlinear process and make it appear like a simple, straight line.*
 
 </div>
 <!-- quote-end -->
