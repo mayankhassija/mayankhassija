@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *in the meanest are all the materials of manhood, only they are not rightly disposed.*
+> *i am sorry to think that you do not get a man's most effective criticism until you provoke him. severe truth is expressed with some bitterness.*
 
 </div>
 <!-- quote-end -->
