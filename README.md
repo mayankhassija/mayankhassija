@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *i am sorry to think that you do not get a man's most effective criticism until you provoke him. severe truth is expressed with some bitterness.*
+> *be generous.*
 
 </div>
 <!-- quote-end -->
