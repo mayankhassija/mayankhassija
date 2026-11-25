@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *be generous.*
+> *inventing plastic was kind of an accident. plastic is not what i meant to invent.*
 
 </div>
 <!-- quote-end -->
