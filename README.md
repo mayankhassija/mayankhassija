@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *inventing plastic was kind of an accident. plastic is not what i meant to invent.*
+> *if someone lies to you once, he'll lie to you a thousand times. lying is for thieves and cowards.*
 
 </div>
 <!-- quote-end -->
