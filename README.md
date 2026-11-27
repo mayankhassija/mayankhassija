@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *if someone lies to you once, he'll lie to you a thousand times. lying is for thieves and cowards.*
+> *history has repeatedly shown that when a new method or material becomes available, new uses for it arise.*
 
 </div>
 <!-- quote-end -->
