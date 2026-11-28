@@ -8,7 +8,7 @@
 <!-- quote-start -->
 <div align="center">
 
-> *history has repeatedly shown that when a new method or material becomes available, new uses for it arise.*
+> *sometimes, the people you expect to kick you when you're down will be the ones to help you get back up.*
 
 </div>
 <!-- quote-end -->
